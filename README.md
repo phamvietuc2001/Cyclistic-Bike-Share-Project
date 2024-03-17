@@ -10,3 +10,26 @@ Here is another Business Intelligence project I did after taking the BI professi
 
 ### Here is the scenario:
 
+Cyclistic has partnered with the city of New York to provide shared bikes. Currently, there are bike stations located throughout Manhattan and neighboring boroughs. Customers are able to rent bikes for easy travel between stations at these locations.
+
+Cyclistic’s Customer Growth Team is creating a business plan for next year. The team wants to understand how their customers are using their bikes; their top priority is identifying **customer demand** at different station locations.
+
+Cyclistic has captured data points for every trip taken by their customers, including:
+* Trip start time and location (station number, and its latitude/longitude)
+* Trip end time and location (station number, and its latitude/longitude)
+* The rented bike’s identification number
+* The type of customer (either a one-time customer, or a subscriber)
+
+Primary dataset: NYC Citi Bike Trips - bigquery-public-data.new_york_citibike
+
+Secondary dataset: Census Bureau US Boundaries - bigquery-public-data.geo_us_boundaries
+
+Third dataset: Global Surface Summary of the Day Weather Data - bigquery-public-data.noaa_gsod
+
+Project goal: **Grow Cyclistic’s Customer Base**
+
+* Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas
+* Understand how the current line of bikes are used
+* Apply customer usage insights to inform **new station growth**
+* Understand how different users (**subscribers** and **non-subscribers**) use the bikes
+
