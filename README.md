@@ -6,7 +6,7 @@ Here is another Business Intelligence project I did after taking the BI professi
     * **Project document** contains the following: project's purpose, stakeholder requirements, success criteria, etc.
     * **Strategy document** deals with approaching the data and getting feedback from the stakeholders by creating data visualizations and dashboard mockups.
 * The 2nd phase (2nd course) is to **consolidate** the data from **multiple sources into a target table** by using SQL and **load** it into the unified destination (Tableau in this project)
-* The final phase (3rd course) is to create the **dashboard**, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: [Cyclistic Bike Share Project] (https://public.tableau.com/app/profile/viet.pham4981/viz/Bike_17106188243660/NYCBikeTrip?publish=yes))
+* The final phase (3rd course) is to create the **dashboard**, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: [Cyclistic Bike Share Project](https://public.tableau.com/app/profile/viet.pham4981/viz/Bike_17106188243660/NYCBikeTrip?publish=yes))
 
 ### Here is the scenario:
 
