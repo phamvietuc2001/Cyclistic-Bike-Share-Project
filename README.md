@@ -19,13 +19,14 @@ Cyclistic has captured data points for every trip taken by their customers, incl
 * Trip end time and location (station number, and its latitude/longitude)
 * The rented bike’s identification number
 * The type of customer (either a one-time customer, or a subscriber)
-* 
+
 Project goal: **Grow Cyclistic’s Customer Base**
 
 * Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas
 * Understand how the current line of bikes are used
 * Apply customer usage insights to inform **new station growth**
 * Understand how different users (**subscribers** and **non-subscribers**) use the bikes
+
 
 Primary dataset: NYC Citi Bike Trips - bigquery-public-data.new_york_citibike
 
