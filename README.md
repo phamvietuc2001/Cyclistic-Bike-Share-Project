@@ -19,13 +19,7 @@ Cyclistic has captured data points for every trip taken by their customers, incl
 * Trip end time and location (station number, and its latitude/longitude)
 * The rented bike’s identification number
 * The type of customer (either a one-time customer, or a subscriber)
-
-Primary dataset: NYC Citi Bike Trips - bigquery-public-data.new_york_citibike
-
-Secondary dataset: Census Bureau US Boundaries - bigquery-public-data.geo_us_boundaries
-
-Third dataset: Global Surface Summary of the Day Weather Data - bigquery-public-data.noaa_gsod
-
+* 
 Project goal: **Grow Cyclistic’s Customer Base**
 
 * Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas
@@ -33,3 +27,8 @@ Project goal: **Grow Cyclistic’s Customer Base**
 * Apply customer usage insights to inform **new station growth**
 * Understand how different users (**subscribers** and **non-subscribers**) use the bikes
 
+Primary dataset: NYC Citi Bike Trips - bigquery-public-data.new_york_citibike
+
+Secondary dataset: Census Bureau US Boundaries - bigquery-public-data.geo_us_boundaries
+
+Third dataset: Global Surface Summary of the Day Weather Data - bigquery-public-data.noaa_gsod
